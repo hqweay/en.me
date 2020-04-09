@@ -11,4 +11,4 @@ Disallow: /font-awesome
 Disallow: /img
 Disallow: /js
 
-Sitemap: https://leay.net/sitemap.xml
+Sitemap: https://blog.leay.net/sitemap.xml
